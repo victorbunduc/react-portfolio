@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.3c67de81.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.3fa2381a.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.3fa2381a.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.735ae937.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.735ae937.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/react-portfolio/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.2be37848.chunk.js": "/react-portfolio/static/js/2.2be37848.chunk.js",
+    "static/js/2.2be37848.chunk.js.map": "/react-portfolio/static/js/2.2be37848.chunk.js.map",
+    "static/js/3.e3c0dc8e.chunk.js": "/react-portfolio/static/js/3.e3c0dc8e.chunk.js",
+    "static/js/3.e3c0dc8e.chunk.js.map": "/react-portfolio/static/js/3.e3c0dc8e.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/react-portfolio/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.3c67de81.chunk.css.map": "/react-portfolio/static/css/main.3c67de81.chunk.css.map",
+    "static/js/2.2be37848.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.2be37848.chunk.js.LICENSE.txt",
+    "static/media/Resume.bee8cb36.pdf": "/react-portfolio/static/media/Resume.bee8cb36.pdf",
+    "static/media/about.aee0f771.png": "/react-portfolio/static/media/about.aee0f771.png",
+    "static/media/avatar.7f806e40.svg": "/react-portfolio/static/media/avatar.7f806e40.svg",
+    "static/media/codeEditor.5e7adb23.png": "/react-portfolio/static/media/codeEditor.5e7adb23.png",
+    "static/media/eeg.709f8b0b.gif": "/react-portfolio/static/media/eeg.709f8b0b.gif",
+    "static/media/emotion.331c4b5b.jpeg": "/react-portfolio/static/media/emotion.331c4b5b.jpeg",
+    "static/media/style.css": "/react-portfolio/static/media/pre.4410c5ba.svg",
+    "static/media/home-main.359935c3.svg": "/react-portfolio/static/media/home-main.359935c3.svg",
+    "static/media/leaf.00c851d7.png": "/react-portfolio/static/media/leaf.00c851d7.png",
+    "static/media/logo.1915a9ab.png": "/react-portfolio/static/media/logo.1915a9ab.png",
+    "static/media/plant.c9d382ae.jpeg": "/react-portfolio/static/media/plant.c9d382ae.jpeg",
+    "static/media/suicide.39440235.png": "/react-portfolio/static/media/suicide.39440235.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.735ae937.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.2be37848.chunk.js",
+    "static/css/main.3c67de81.chunk.css",
+    "static/js/main.3fa2381a.chunk.js"
+  ]
+}
